@@ -16,13 +16,13 @@ A concise FastAPI authentication demo that uses Google Sheets as a lightweight b
 ## Screenshots
 Login and registration screenshots are included to show the UI.
 
-![Login Screenshot](fast-api-auth/assets/Screenshot%202026-02-23%20225027.png)
+![Login Screenshot](assets/Screenshot%202026-02-23%20225027.png)
 *Login interface.*
 
-![Registration Screenshot](fast-api-auth/assets/Screenshot%202026-02-23%20225038.png)
+![Registration Screenshot](assets/Screenshot%202026-02-23%20225038.png)
 *Registration interface.*
 
-![Google Sheets - Live Update](fast-api-auth/fast-api-auth/assets/image.png)
+![Google Sheets - Live Update](assets/image.png)
 *Google Sheet showing live updates when users register or log in.*
 
 ## ✨ Features
@@ -82,7 +82,7 @@ Open `http://127.0.0.1:8000` to view the UI. API docs are available at `http://1
 
 - `main.py` — FastAPI app and routes
 - `credentials.json` — Google service account key (local only)
-- `fast-api-auth/assets/` — UI screenshots used in this README
+- `assets/` — UI screenshots used in this README
 - `test_connection.py` / `test.py` — small test helpers
 
 ## Contributing
